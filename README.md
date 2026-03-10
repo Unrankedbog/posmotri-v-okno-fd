@@ -1,1 +1,1 @@
-https://github.com/username/posmotri-v-okno-fd
+https://github.com/Unrankedbog/posmotri-v-okno-fd
